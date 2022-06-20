@@ -1,0 +1,10 @@
+[package]
+name = "sample-blockchain-app"
+version = "0.1.0"
+authors = ["Hubert Nowak"]
+edition = "2021"
+rust-version = "1.61.0"
+description = "Sample blockchain application"
+license = "MIT"
+
+[dependencies]
