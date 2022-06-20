@@ -8,3 +8,4 @@ description = "Sample blockchain application"
 license = "MIT"
 
 [dependencies]
+chrono = "0.4.18"
